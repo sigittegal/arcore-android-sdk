@@ -153,6 +153,7 @@ public class HelloArActivity extends AppCompatActivity implements SampleRender.R
   // was not changed.  Do this using the timestamp since we can't compare PointCloud objects.
   private long lastPointCloudTimestamp = 0;
 
+  //Terlalu Santuyyy ( ° ͜ʖ͡°)╭∩╮
   // Virtual object (ARCore pawn)
   private Mesh virtualObjectMesh;
   private Shader virtualObjectShader;

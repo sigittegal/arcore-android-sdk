@@ -1,0 +1,81 @@
+com/google/ar/core/examples/java/common/samplerender/GpuBuffer.java
+ com.google.ar.core.examples.java.common.samplerender.GpuBuffer
+com/google/ar/core/examples/java/common/helpers/SnackbarHelper.java
+ com.google.ar.core.examples.java.common.helpers.SnackbarHelper
+ com.google.ar.core.examples.java.common.helpers.SnackbarHelper$1
+ com.google.ar.core.examples.java.common.helpers.SnackbarHelper$2
+ com.google.ar.core.examples.java.common.helpers.SnackbarHelper$2$1
+ com.google.ar.core.examples.java.common.helpers.SnackbarHelper$2$2
+ com.google.ar.core.examples.java.common.helpers.SnackbarHelper$DismissBehavior
+com/google/ar/core/examples/java/common/samplerender/arcore/BackgroundRenderer.java
+ com.google.ar.core.examples.java.common.samplerender.arcore.BackgroundRenderer
+com/google/ar/core/examples/java/common/helpers/DepthSettings.java
+ com.google.ar.core.examples.java.common.helpers.DepthSettings
+com/google/ar/core/examples/java/common/helpers/TapHelper.java
+ com.google.ar.core.examples.java.common.helpers.TapHelper
+ com.google.ar.core.examples.java.common.helpers.TapHelper$1
+com/google/ar/core/examples/java/helloar/HelloArActivity.java
+ com.google.ar.core.examples.java.helloar.HelloArActivity
+ com.google.ar.core.examples.java.helloar.HelloArActivity$1
+ com.google.ar.core.examples.java.helloar.HelloArActivity$2
+ com.google.ar.core.examples.java.helloar.HelloArActivity$3
+ com.google.ar.core.examples.java.helloar.WrappedAnchor
+com/google/ar/core/examples/java/common/helpers/FullScreenHelper.java
+ com.google.ar.core.examples.java.common.helpers.FullScreenHelper
+com/google/ar/core/examples/java/common/samplerender/IndexBuffer.java
+ com.google.ar.core.examples.java.common.samplerender.IndexBuffer
+com/google/ar/core/examples/java/common/helpers/TrackingStateHelper.java
+ com.google.ar.core.examples.java.common.helpers.TrackingStateHelper
+ com.google.ar.core.examples.java.common.helpers.TrackingStateHelper$1
+com/google/ar/core/examples/java/common/samplerender/Mesh.java
+ com.google.ar.core.examples.java.common.samplerender.Mesh
+ com.google.ar.core.examples.java.common.samplerender.Mesh$PrimitiveMode
+com/google/ar/core/examples/java/common/samplerender/arcore/SpecularCubemapFilter.java
+ com.google.ar.core.examples.java.common.samplerender.arcore.SpecularCubemapFilter
+ com.google.ar.core.examples.java.common.samplerender.arcore.SpecularCubemapFilter$1
+ com.google.ar.core.examples.java.common.samplerender.arcore.SpecularCubemapFilter$Chunk
+ com.google.ar.core.examples.java.common.samplerender.arcore.SpecularCubemapFilter$ChunkIterable
+ com.google.ar.core.examples.java.common.samplerender.arcore.SpecularCubemapFilter$ChunkIterable$1
+ com.google.ar.core.examples.java.common.samplerender.arcore.SpecularCubemapFilter$ImportanceSampleCacheEntry
+com/google/ar/core/examples/java/common/samplerender/SampleRender.java
+ com.google.ar.core.examples.java.common.samplerender.SampleRender
+ com.google.ar.core.examples.java.common.samplerender.SampleRender$1
+ com.google.ar.core.examples.java.common.samplerender.SampleRender$Renderer
+com/google/ar/core/examples/java/common/samplerender/Framebuffer.java
+ com.google.ar.core.examples.java.common.samplerender.Framebuffer
+com/google/ar/core/examples/java/common/helpers/InstantPlacementSettings.java
+ com.google.ar.core.examples.java.common.helpers.InstantPlacementSettings
+com/google/ar/core/examples/java/common/helpers/CameraPermissionHelper.java
+ com.google.ar.core.examples.java.common.helpers.CameraPermissionHelper
+com/google/ar/core/examples/java/common/samplerender/Texture.java
+ com.google.ar.core.examples.java.common.samplerender.Texture
+ com.google.ar.core.examples.java.common.samplerender.Texture$ColorFormat
+ com.google.ar.core.examples.java.common.samplerender.Texture$Target
+ com.google.ar.core.examples.java.common.samplerender.Texture$WrapMode
+com/google/ar/core/examples/java/common/samplerender/VertexBuffer.java
+ com.google.ar.core.examples.java.common.samplerender.VertexBuffer
+com/google/ar/core/examples/java/common/helpers/DisplayRotationHelper.java
+ com.google.ar.core.examples.java.common.helpers.DisplayRotationHelper
+com/google/ar/core/examples/java/helloar/BuildConfig.java
+ com.google.ar.core.examples.java.helloar.BuildConfig
+com/google/ar/core/examples/java/common/samplerender/Shader.java
+ com.google.ar.core.examples.java.common.samplerender.Shader
+ com.google.ar.core.examples.java.common.samplerender.Shader$BlendFactor
+ com.google.ar.core.examples.java.common.samplerender.Shader$Uniform
+ com.google.ar.core.examples.java.common.samplerender.Shader$Uniform1f
+ com.google.ar.core.examples.java.common.samplerender.Shader$Uniform2f
+ com.google.ar.core.examples.java.common.samplerender.Shader$Uniform3f
+ com.google.ar.core.examples.java.common.samplerender.Shader$Uniform4f
+ com.google.ar.core.examples.java.common.samplerender.Shader$UniformInt
+ com.google.ar.core.examples.java.common.samplerender.Shader$UniformMatrix2f
+ com.google.ar.core.examples.java.common.samplerender.Shader$UniformMatrix3f
+ com.google.ar.core.examples.java.common.samplerender.Shader$UniformMatrix4f
+ com.google.ar.core.examples.java.common.samplerender.Shader$UniformTexture
+com/google/ar/core/examples/java/common/samplerender/arcore/PlaneRenderer.java
+ com.google.ar.core.examples.java.common.samplerender.arcore.PlaneRenderer
+ com.google.ar.core.examples.java.common.samplerender.arcore.PlaneRenderer$1
+ com.google.ar.core.examples.java.common.samplerender.arcore.PlaneRenderer$SortablePlane
+com/google/ar/core/examples/java/common/samplerender/GLError.java
+ com.google.ar.core.examples.java.common.samplerender.GLError
+com/google/ar/core/examples/java/common/helpers/LocationPermissionHelper.java
+ com.google.ar.core.examples.java.common.helpers.LocationPermissionHelper
